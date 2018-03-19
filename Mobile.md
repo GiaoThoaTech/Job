@@ -2,8 +2,8 @@
 
 ## Location
 
-* Thu Duc, HCM
-* Q3, HCM
+* District Thu Duc , HCM
+* District 3, HCM
 
 ## Requirements
 ### Intern Android/iOS Developer
