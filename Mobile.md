@@ -45,6 +45,4 @@ Broad knowledge and experience in:
 ### Why it would be awesome to work with us
 Giao Thoa Tech is a startup in IoT domain in Vietnam, we are the first man building Smart Lock. With a strong technical team, we have a strong belief in a future to bring Smart Home to Viet Nam life.
 
-### Contact
-* Email: hr@giaothoatech.com
-* Phone: 0902 675 405
+If you are person with an enthusiastic interest in technology, a strong willingness to learn and the desire to provide great customer service, kindly send updated CV to hr@giaothoatech.com (or contact skype: tin_tran1991)
