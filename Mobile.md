@@ -2,12 +2,13 @@
 
 ## Location
 
-* Saigon, Vietnam
+* Thu Duc, HCM
+* Q3, HCM
 
 ## Requirements
-### Fresher Android/iOS Developer
+### Intern Android/iOS Developer
 Broad knowledge and experience in:
-* Java language;
+* Java/Swift language;
 * Object-oriented programming (OOP);
 * Data Structure and Algorithms;
 * Networking and API;
@@ -45,5 +46,5 @@ Broad knowledge and experience in:
 Giao Thoa Tech is a startup in IoT domain in Vietnam, we are the first man building Smart Lock. With a strong technical team, we have a strong belief in a future to bring Smart Home to Viet Nam life.
 
 ### Contact
-* Email: phapli1991@gmail.com
+* Email: hr@giaothoatech.com
 * Phone: 0902 675 405
